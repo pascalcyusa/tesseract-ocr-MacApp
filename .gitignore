@@ -15,6 +15,9 @@
 *.ipch
 *.manifest
 
+# macOS
+*.DS_Store
+
 # Linux
 # ignore local configuration
 config.*
